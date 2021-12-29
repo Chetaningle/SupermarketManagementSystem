@@ -1,0 +1,305 @@
+product_id,department_id,subdepartment_id,supplier_id,product_name,price,product_description
+1,1,1,1,Beer -1 (6 x 12oz),15,
+2,1,2,8,Coca-Cola (20 x 12 oz),35,
+3,1,3,8,Pepsi (20 x 12oz),33,
+4,1,1,1,Beer - 2 (6 x 12oz),12,
+5,1,2,8,Water 12x8oz,5,
+6,2,1,2,"Fresh Vegetables Box - (Onions, Tomatoes, Bell Pepper, Spinach)",10,"Contains 2lb Onions, 2lb Tomatoes, 3 Bell Pepers, 1 Spinach"
+7,2,1,2,"Fresh Fruit Boxes - (Avocado, Bananas, Cranberries, Grapes, Strawberries)",20,"Contains 1 x 1lb Avocado, 6 Bananas, 1 x 1lb Cranberries, 1 x 1lb Grapes, 24 Strawberries"
+8,2,2,2,"Lays, Cheetos, Ruffles (box of 30 packs)",50,10 packets each
+9,2,3,10,Beyond Burger,4.99,2 x 1/4 lb plant based patties
+10,2,4,10,Boneless Chicken breasts,8.99,1lb boneless chicken breast
+11,2,1,2,Seedless Watermelon,15,Fresh seedless watermelon
+12,2,2,10,"Reeses, Hersheys, M&M Mixed bag (90 count)",24.99,"Mixed bag of 30x Reese, 30x M&Ms, 30x Hersheys kisses"
+13,2,3,10,Chicken Tenders,6.99,12oz Packet
+14,2,4,10,Pork,9.99,1lb Pork
+15,2,3,2,Beyond Breakfast Sausage Spicy,5.39,2 x 1/4 lb plant based sausages
+16,3,1,3,Pedigree Adult Dry Dog Food - 33lb ,19.98,"This dry food recipe helps maintain a healthy lifestyle with antioxidants, vitamins, and minerals, in the delicious chicken flavor dogs love
+Provides whole grains and helps support healthy digestion"
+17,3,1,3,Wag Dry Dog Food with Grains (Chicken/Salmon/Beef and Brown Rice) - 30lb,23.39,Salmon and Brown Rice Dog Food
+18,3,2,3,Purina Pro Plan SAVOR Adult Dry Cat Food - 16lb,20,
+19,5,1,5,"Sceptre 27-Inch FHD LED Gaming Monitor 75Hz 2X HDMI VGA Build-in Speakers, Ultra Slim Metal Black",299.99,"Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortably work, watch, or play applications without straining your eyes.
+Up to 75Hz Refresh Rate: With 75Hz refresh rate, images change faster and smoother than the standard, reducing screen tearing.
+AMD FreeSync: With AMD FreeSync, gamers enjoy smooth video & seamless on the spot movement in fast-paced games. The graphic card and monitor refresh rates are synchronized to eliminate tearing and stuttering.
+Multiple Ports: One VGA and two HDMI ports each accelerate refresh rate up to 75Hz, providing the visual edge you need to defeat any opponent during all of your gaming adventures.
+Built in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk."
+20,5,1,5,"Lenovo Chromebook S330 Laptop, 14-Inch FHD (1920 x 1080) Display, MediaTek MT8173C Processor, 4GB LPDDR3, 64GB eMMC, Chrome OS, 81JW0000US, Business Black",192.4,"MediaTek MT8173C (4C, 2x A72 @2.1GHz + 2x A53 @1.7GHz)
+14"" HD (1366x768) TN 220nits Anti-glare Display, Non-Touch
+Integrated PowerVR GX6250
+4GB Soldered LPDDR3-1866
+32GB eMMC 5.1"
+21,7,4,9,"UCANBE Face Body Paint Set - Athena Painting Palette, 10 Professional Artist Brushes - Large Deep Pan,Ideal for Halloween Cosplay Party SFX Arty Stage Makeup, Non-Toxic Facepaints for All Skin Types",24.99,"Long lasting.
+Smooth texture.
+Useful Extra Large Pan of Black and White."
+22,7,4,9,"Maybelline Fit Me Matte + Poreless Liquid Foundation Makeup, Natural Beige, 1 fl; oz; Oil-Free Foundation",3.15,"Maybelline Fit Me Matte Foundation: For a natural looking medium coverage liquid foundation makeup, look no further; In 40 shades, you'll find a fit for every skin tone; Best for normal to oily skin; refines pores for a natural looking matte finish.
+A Shade That Fits Me: Maybelline Fit Me liquid foundation provides coverage for a wide array of skin tones, from Ivory to Mocha; Use as a full face foundation with buildable coverage for a flawless, natural-looking, ""I woke up like this"" finish.
+Maybelline Fit Me For A Flawless Face: With Matte + Poreless foundation or Dewy+ Smooth foundation with SPF 18, concealer, finishing powder, bronzer and blush, Maybelline New York Fit Me collection has everything you need to put your best face forward.
+Maybelline has what you need to create any look: foundation, bb creams and concealers to create a perfect canvas, eyeshadows, brow pencils and eyeliners for any eye look and lip products, from show stopping matte lipstick to au natural lip balms.
+Remove Maybelline Makeup With Micellar Water: Use Garnier Micellar Water as a gentle makeup remover at night, and as a facial cleanser in the morning to prep skin for Maybelline makeup."
+23,5,1,5,"Mini PC Stick 8GB DDR3L 128GB ROM Ιntel Atom X5-Z8350 Processor Windows 10 Pro Mini Computer Support 4K HD, 2.4G/5G Dual Band WiFi, Bluetooth 4.2, Auto Power on Windows Desktop Stick",169.8,"【Ιntel Computer Stick】The pc stick Equiped with Quad-Cores Ιntel Atom X5-Z8350 processor (Up to 1.92 GHz) and Ιntel HD Graphics 400(Up to 500 MHz). Arranging Windows 10 Pro (64-bit) in groups supports to run the operating system and play 4K full HD video smoothly. Enjoy your light office and Home theater just now.
+【Sufficient Memory & Storage】This mini pc has 8GB DDR3L 128 eMMC supporting to run multiple programs stably at the same time. The use of office software and video conferencing are both right. It also can be expanded the storage with a TF card up to 256GB(not include). Provide more capacity to store your own programs, files or audio video.
+【Small Form & Lightweight】The size of this windows stick(3.9 x 1.5 x 0.5 inches) is smaller than your hand and portable. It equipped with heat sink fan to keep the computer stick a cool work entertainment but lower noise. These thoughtful designs mean less power consumptioncan and meet your deeply needs.
+【Wireless Connections & Ports Details】This mini computer was built-in 2.4G/5G dual band WiFi and support Bluetooth 4.2, which could be connected to wireless keyboard, mouse, etc. Equiped with 1x USB 2.0, 1x USB 3.0(Up to 100M/s), 1x HDMI, 1x micro TF card slot(Up to 128GB), 1x DC power port.
+【Your Intimate Personal PC】The computer stick has other functions such as Auto power on, RTC Wake, in order to enhance the sense of experience. About after-sales sevice, We offer lifetime technical support, 12 months quality assurance and all day customer service. "
+24,7,4,9,"Dermablend Leg and Body Makeup, with SPF 25. Skin Perfecting Body Foundation for Flawless Legs with a Smooth, Even Tone Finish, 3.4 Fl. Oz.",24.99,"Medium to full coverage body and leg makeup with sunscreen. Cover up scars, varicose veins, spider veins, stretch marks, bruises and other imperfections. Lightweight, natural looking finish."
+25,7,4,9,Magic Effects Powder-to-Cream Concealer,29.99,"This breakthrough concealer uses powder-to-cream technology to give you flawless coverage for dark circles, age spots & redness."
+26,7,4,9,"Banana Powder, Anti-Shine Powder, Makeup Setting Powder, D-Shine by Dermaflage, 7g/.24oz",34.55,"Banana Powder controls shine, absorbs oil throughout the day while minimizing pores and fine lines.
+Makeup Setting Powder for long wear. Keeps makeup in place without looking cakey.
+Corrects discoloration with a golden tone to match any skin tone for a flawless finish.
+Sensitive skin powder: NO parabens, talc, paraffins, petrolatum, mineral oil or synthetic fragrances.
+Powder for fine lines, wrinkles and pores. Get an even complexion all day."
+27,2,4,10,"Fyffes, Organic Bananas, One Banded Bunch (5 ct)",3.49,"One bunch of five organic bananas banded
+Keep bananas at a cool room temperature and keep away from direct sunlight
+Good Source of Vitamin B-6 and Potassium"
+28,2,4,10,"Grown True Organic Roma Tomato, 1 lb",2.99,"16 oz Organic Romas
+Rich in lycopene antioxidants and vitamin C.
+Great addition to your favorite recipes to enjoy freshly sliced, diced or cooked
+Synonymous with Italy, these smooth-skinned beauties are made for exquisite sauces"
+29,2,4,10,"Grown True Organic Zucchini Squash, 3 ct Tray",4.39,"Fresh Zucchini Squash
+Certified Organic
+Fresh, crisp, and earthy flavor that can be enjoyed both raw and cooked
+Great source of daily essential vitamins and minerals"
+30,2,4,10,"Sunbird Chicken Lettuce Wraps Seasoning Mix, 1.25 oz",1.04,"Country of origin is United States
+This product has No Artificial Ingredients
+Item Package Weight: 1.020kg
+Item Package Dimension: 21.843cm L x 18.288cm W x 8.128cm H"
+31,2,4,10,"La Choy Sliced Chestnuts, 8 Ounce",1.26,"Sliced chestnuts
+Each unit count: 8.0"
+32,2,4,10,"Birds Eye Chopped Spinach, Frozen Vegetable, 10 OZ",1.49,"One 10 oz pack of Birds Eye Chopped Spinach Frozen Vegetable
+Chopped spinach makes it easy to provide your family with vegetables
+Flash frozen chopped spinach locks in flavor
+Made without anything artificial
+Frozen vegetables can be prepared in less than 8 minutes on the stovetop or in a microwave
+Stock your freezer with frozen vegetables 365 days a year"
+33,2,4,10,"Birds Eye Sauced Garlic Parmesan Broccoli Florets, Frozen 13.25 oz.",4.49,"Contains one 13.25-ounce bag of Birds Eye Sauced Garlic Parmesan Broccoli Florets, Frozen
+Dig into delicious whole broccoli florets, lightly breaded and tossed in a zesty garlic Parmesan sauce
+Enjoy a tasty spin on broccoli that is ideal as an appetizer or side dish
+Quick, convenient and ready to eat in less than 20 minutes
+Pairs well with any entrée and provides an excellent source of Vitamin C; see nutrition information for sodium content"
+34,5,1,5,The Jackbox Party Pack 3,39.99,"The threequel to the party game phenomenon features FIVE new sense-shattering games!
+
+1) The say-anything sequel Quiplash 2 (3-8 players). Play all new questions or make your own!
+2) The deadly quiz show Trivia Murder Party (1-8 players). Match wits with a trivia-obsessed killer.
+3) The surprising survey game Guesspionage (2-8 players). Guess the results to silly survey questions.
+4) The t-shirt slugfest Tee K.O. (3-8 players). Battle your custom t-shirts to the death!
+5) The sneaky trickster game Fakin’ It (3-6 players). One of your friends has something to hide.
+
+Play using your phones, tablets, or computers. No extra controllers needed!
+All games support up to 10,000 audience members playing along!
+Plus tons of NEW features just for streamers! It’s a digital box full of actual fun!
+
+NOTE: The Jackbox Party Pack 3 is in English only."
+35,5,1,5,Grand Theft Auto: Vice City,4.99,"Welcome back to Vice City. Welcome back to the 1980s.
+
+From the decade of big hair, excess and pastel suits comes a story of one man's rise to the top of the criminal pile. Vice City, a huge urban sprawl ranging from the beach to the swamps and the glitz to the ghetto, was one of the most varied, complete and alive digital cities ever created. Combining open-world gameplay with a character driven narrative, you arrive in a town brimming with delights and degradation and given the opportunity to take it over as you choose."
+36,7,4,13,Pantoprazole,169.5,"PANTOPRAZOLE (pan TOE pra zole) prevents the production of acid in the stomach. It is used to treat gastroesophageal reflux disease (GERD), inflammation of the esophagus, and Zollinger-Ellison syndrome."
+37,7,4,13,Insulin Lispro Kwikpen,174.24,"
+INSULIN LISPRO (IN su lin LYE sproe) is a human-made form of insulin. This drug lowers the amount of sugar in your blood. This medicine is a rapid-acting insulin that starts working faster than regular insulin. It will not work as long as regular insulin."
+38,7,4,9,Duloxetine,210.6,"DULOXETINE (doo LOX e teen) is used to treat depression, anxiety, and different types of chronic pain."
+39,7,4,9,Amlodipine,48.9,AMLODIPINE (am LOE di peen) is a calcium channel blocker. It relaxes your blood vessels and decreases the amount of work the heart has to do. It treats high blood pressure and/or prevents chest pain (also called angina).
+40,4,3,4,Throne of Glass eBook Bundle: An 8 Book Bundle,5.99,"When magic has gone from the world and a vicious king rules from his throne of glass, an assassin comes to the castle. She is a prisoner, but if she can defeat twenty-three killers, thieves, and warriors in a competition to find the greatest assassin in the land, she will become the king's champion and earn her freedom. But the evil she encounters in the castle goes deep, and as dark forces gather on the horizon – forces which threaten to destroy her entire world – the assassin must take her place in a fight greater than she could ever have imagined.
+
+This is the epic, heart-stopping fantasy series that has turned #1 New York Times bestselling author Sarah J. Maas into a worldwide phenomenon. Fans new and old will dive into this ebook bundle containing the whole series: Throne of Glass, Crown of Midnight, Heir of Fire, Queen of Shadows, Empire of Storms, Tower of Dawn, the thrilling finale Kingdom of Ash, and the companion anthology The Assassin's Blade."
+41,4,3,4,Daughter of Shades (The Venatrix Chronicles Book 1),4.99,"Daughter of Shades is the first breathtaking book in The Venatrix Chronicles YA fantasy series. If you like kick-butt heroines, intriguing worlds of magic, and slow-burn romance then you’ll love Sylvia Mercedes’s action-packed story.
+Buy Daughter of Shades today, and journey into a vivid medieval world of honor and deception, rivalry and love, valiant hunters and malevolent spirits from another realm ."
+42,4,3,4,Visions of Fate (The Venatrix Chronicles Book 2),4.99,"Return to the world of The Venatrix Chronicles, where deadly spirits lurk in the shadows, good and evil wage eternal war, and secrets threaten to tear a kingdom apart. If you love kick-butt heroines, slow-burn romance, breathtaking action, and stories that leave you with a book hangover for days after you finish . . . you need to discover this dark and deadly series. Prepare to turn pages late into the night!"
+43,4,3,4,Dance of Souls (The Venatrix Chronicles Book 4),4.99,"-Still recovering from her deadly encounter with the Phantomwitch, Ayleth finds herself the unwilling guest of the Golden Prince, forced to enjoy his hospitality . .and the not-so-gentle ministrations of Venator Fendrel du Glaive.
+-There’s something strange about Fendrel. The way he stares at her is unsettling—as though she’s a monster, as though she’s guilty of some great sin. But didn’t she just defeat one of the worst enemies the kingdom has ever known? Hasn’t she proven her worth?
+-And then there’s Terryn, who may be lying to her, who may not be the loyal venator everyone believes him to be. He also looks at her strangely . . . but his gaze makes her heart stop and her pulse race in ways she’s never felt before.
+-As the night of Prince Gerard’s wedding approaches and the kingdom gathers to celebrate new beginnings, dark forces close in on all sides. Certain secrets, long buried deep, are bound to emerge at last.
+-When they do, will Ayleth have the strength to stand and fight?"
+44,4,3,4,Thinblade (Sovereign of the Seven Isles Book 1) ,0.99,"-The air stilled. The room fell silent. A shockwave passed through them. Everyone froze, faces white with fear. The ancient evil had awakened…
+-When Alexander loses his brother to an assassin’s arrow, he learns that his family protects an ancient secret and reluctantly finds himself at the center of a war that was supposed to have ended long ago.
+-Pursued by dark minions of an ancient enemy, Alexander flees to the mountain city of Glen Morillian where he discovers that he is the heir to the throne of Ruatha, one of the Seven Isles.
+-Before he can claim his birthright he must recover the ancient Thinblade. Seven were forged by the first Sovereign of the Seven Isles. Each is as long as a man’s arm, as wide as a man’s thumb and so thin it can’t be seen from the edge.
+-Thinblade is the story of Alexander’s quest to find the ancient sword, claim the throne and raise an army capable of standing against an evil that seeks dominion over all of the Seven Isles.
+-The Sovereign of the Seven Isles is an epic fantasy adventure story spanning seven books and over a million words. Are you looking for a world to get lost in? The Seven Isles awaits."
+45,5,1,5,"GE Lighting Cync Full Color Direct Connect A19 LED Smart Light Bulbs with Bluetooth and Wi-Fi, 60W Replacement, Alexa + Google Home Compatible Without Hub, 2-Pack (New for 2021)",23.99,"Smart bulbs that work with Alexa: Select Frustration Free Setup at checkout to have your device automatically paired with your Amazon Alexa device when it arrives.
+Wi-Fi light bulbs: Easily connect these smart light bulbs directly to your Wi-Fi router, providing voice control for your Cync and C by GE smart bulbs through voice assistants (sold separately) and control away from home - no hub or bridge required.
+Manage your smart bulbs away from home: Get added home security and convenience by controlling your Wi-Fi light bulbs with the Cync mobile app. With these Cync smart lights, never come home to a dark house or disrupt your comfort from bed.
+Color changing light bulbs with app: Millions of colors change kids' rooms with their interests, create next level movie nights, and support your team on game day. Adjust the smart bulbs' white to any color between warm, amber and cool, bluish tones.
+LED smart bulbs: These smart lights fit medium base sockets for 60W incandescent A19 bulbs, helping make your house a smart home. These smart LED light bulbs use 84% less energy and last 15 times longer than a 60W incandescent bulbs."
+46,5,1,5,"C by GE 4-Wire Smart Dimmer Switch with Bluetooth and Wi-Fi, Neutral Wire Required, Compatible with Google Home and Alexa, 1-Pack (Packaging May Vary)",46.01,"Upgrade your smart home: The C by GE Smart Switch Dimmer allows you to control your lights through touch, the Cync mobile app, or voice assistant. With Google Home or Alexa (sold separately), dimmer switches from C by GE make light control easy.
+C by GE Smart Light Switch Dimmer: Get convenience and comfort with your smart bulbs and dimmer switch always being ready to respond. With enhanced functionality like out of home control and scheduling, you will never come home to a dark house.
+Alexa and Google Home Compatible: Cync and C by GE smart bulbs and the smart switch dimmer work with voice and app control at all times, even when the wall switch is turned off.
+Make traditional light bulbs smart bulbs: The C by GE smart dimmer allows you to easily make your light bulbs compatible with Google Home or Amazon Alexa when paired with your smart devices.
+A smart dimmer switch for LED lights and more: Set scenes to match your mood by controlling the dimmer switch with the Cync mobile app, touch, or voice assistant to control brightness level. Works with LED, incandescent, halogen, and CFL bulbs."
+47,5,1,5,"Smart Dimmer Switch, Single-Pole Smart Switch for Dimmable Bulbs, Treatlife 2.4GHz WiFi Smart Light Switch Works with Alexa and Google Home, Remote Control, Neutral Wire Required",24.99,"[0%-100% Dimmable & Memory Function]: Adjust the light dimming range to a certain percentage by moving your finger up or down or via app or a voice, the smart switch can remember and turn back to the last setting after powered off. Use for non smart but dimmable LED 150W Max, Halogens/Incandescent 400W Max, CFL 150W Max bulbs.
+[Hands-free & Voice Control]: The dimmer smart switch works with Alexa & Google Home Assistant to conveniently control the light with the simple voice command while your hands are full or when it is dark in your room. No Hub required.
+[Smart APP & Remote Control]: Manage your house’s lighting via APP on your smart phone from anywhere at anytime. Ideal for when you're away from home or when you are sitting on your cozy sofa or comfortable bed.
+[Light Schedules & Group Control]: Create schedules to automatically turn the light on or off with the preset brightness at specific times. You can also share the App with your family members to control the switch.
+[Note]: Neutral Wire is needed.Only suitable for single-pole (Not 3-way), 2.4GHz wifi (Not 5GHz). The standard size fits any standard multi-gang wall panel. The installation tutorial will guide you through the wiring process.Any problem, please feel free to contact us via Amazon."
+48,5,1,5,"Govee Smart Light Bars, RGBICWW Smart LED Lights with 12 Scene Modes and Music Modes, Bluetooth Color Light Bar for Entertainment, PC, TV, Room Decoration",47.59,#NAME?
+49,5,1,5,"Govee Under Lights for Cars, Dimmable RGB Exterior Car LED Lights with 32 Colors, 7 Scene Modes and Music Mode, 2 Lines Design Car Underglow Lights with Remote Control for SUVs, Trucks, DC 12-24V",29.99,"Vivid Color Options: 32 colors available for your exterior car led strip lights makes your vehicle stand out in style. Your driving experience will never be the same
+-7 Scene Modes: Govee under lights for car offer 7 dynamic scenes modes, helping to transform your car decor and driving experience for spontaneous road trips or weekend get-aways.
+-Control with Ease: With the provided remote controller, you can power your underglow car lights on, change colors and brightness, switch the scene modes among 7 options at random at the touch of a button.
+-Simple to Install: A flexible strip design makes installing the under lights to your suvs and trucks a breeze. With adhesive, clips, cable ties and screws, your exterior car lights are flexible to stick stable.
+-2 Lines Design: Govee underglow lights are equipped with 2 lines connecting 4 strip lights. 2 x 35 inch + 2 x 47 inch light strips design make them suitable for your cars, trucks, and suvs."
+50,5,1,5,"DAYBETTER Smart WiFi Led Lights 100ft, Tuya App Controlled Led Strip Lights, Work with Alexa and Google Assistant, Timer Schedule Led Lights Strip, Color Changing Led Lights for Bedroom Party Kitchen",34.99,"App & remote control : Download the tuya APP, you can control the smart WiFi led strip lights anywhere with your mobile phone ; Nomatter you are working in the office or on vacation; Also you can use group function to create a group for multiple led strips, and then activate them all with one click (2.4GHz Wi-Fi only)
+-Voice control : Our smart strip lights can work with Alexa and Google home assistant; You can easily turn on/off the light, change the light color, dim the brightness with a simple voice command; No hub required easy to install and no need subscription.
+-Timer & schedule : You can schedule the smart led strip automatically switch on/off via your phone app; And you also can set a countdown timer; Set the wifi led lights turn on or off at a specific time; Turn all lights on the moment you back home, turn all lights off when you are away from home.
+-Led lights sync to music : Our wifi led strip lights can change color and sync with music ; It have multi-music mode, which will change to follow the rhythm or the melody; This music light strip can even respond to your voice which make the light “dance” to the beat.
+-Easy to install and use: Our rgb led strip is easy to cut, It can be cut every 3 leds along with the cutting marks, without damaging the rest of the strip; our flexible pcb strips can be bent to different patterns, our led light strips for bedroom has a working voltage of 12V and are equipped with short circuit protection."
+51,5,1,5,"Microsoft 365 Family | 12-Month Subscription, up to 6 people | Premium Office Apps | 1TB OneDrive cloud storage | PC/Mac Download",99.99,"-With 12 months of Microsoft 365 for up to six people, you and your family can have the tools to create, organize, and get things done.
+Bring out your best with premium Office apps, including Word, Excel, and PowerPoint.
+-Your subscription includes 1 TB of OneDrive cloud storage for each person you share with, so they can easily access, edit, and share files and photos across all devices.
+-Keep it all together with Outlook, an ad‑free app for your email, calendars, to do lists and contacts with security tools that keep your information protected.
+-Empower your family with advanced features in the Family Safety mobile app.
+-Protect your files with advanced security features like built‑in ransomware detection and recovery and you can use two‑step identity verification to access your most important files in OneDrive Personal Vault.
+-Gives you the flexibility to use multiple PCs, Macs, iPads, iPhones and Android phones."
+52,5,1,5,HP Instant Ink $5 Prepaid Code - Ink and toner subscription service for home printing,5,"NEVER RUN OUT AND SAVE UP TO 50% ON ORIGINAL HP INK – with HP's hassle-free, money-saving ink subscription service.
+-$5 PREPAID CODE – Your prepaid code is delivered via email and credited to your Instant Ink account once you enroll. Cartridges arrive within 14 days of account setup.
+-PRINT A LITTLE OR A LOT – Plans start at $0.99/month and include recycling. Pick a plan based on how often you print, not how much ink you use.
+-AUTOMATIC DELIVERY – You will receive ink or toner when your printer runs low, not necessarily every month.
+-PLAN FLEXIBILITY – Print more or less? Unused pages roll over and extra pages cost pennies. Plus, you can change or cancel your plan at any time.
+-ELIGIBLE CARTRIDGES – HP Instant Ink works with Original HP 62, 63, 64, 65, 67, 902, 910, 952, 962 Ink and Original HP 134 Toner"
+53,5,1,5,HP 60XL | Ink Cartridge | Black | CC641WN,51.89,"-HP 60 ink cartridges work with: HP Deskjet D2530, D2545, F2430, F4224, F4440, F4480, HP ENVY 100, 110, 111, 114, 120 HP Photosmart C4640, C4650, C4680, C4780, C4795, D110
+-Get up to 2x the pages with Original HP XL ink cartridges compared to standard cartridges
+-Cartridge yield (approx): 600 pages
+-Original HP ink cartridges: genuine ink for your HP printer
+-What's in the box: 1 New Original HP 60XL ink cartridge (CC641WN)
+-Color: Black
+"
+54,5,1,5,ATOPolyjet Remanufactured Ink Cartridge Replacement for HP 60 XL 60XL Black Color Fit for PhotoSmart C4680 C4780 C4795 D110a DeskJet F4480 D2530 F4280 F4580 F2430 D2660 Envy 120 100 110 114 Printer,29.99,"High Yield: 660 Pages per 60XL Black Ink Cartridge , 450 Pages per 60XL Color Ink Cartridge at 5% coverage
+Package Contents: 1 Black + 1 Tri-Color Remanufactured Ink Cartridge Replacement for HP Ink Cartridge 60. All ATOPolyjet remanufactured 60XL Ink Cartridge Combo Pack Color and Black adopt premium ink, which have been tested to ensure full working condition and a superb quality prints."
+55,5,1,5,Night Light Projector Gifts for Kids: DEVRNEZ 360 Degree Rotating Moon Star Nightlight for Age 2-12 Baby Girls Boys for Bedroom Christmas Stocking Stuffers|Party and Birthday Toys Gifts (Black),12.96,"-Christmas Star Moon Night Lights Projector: DEVRNEZ night lamp is wonderful, bringing kids into a vast universe to appreciate the colorful moon and stars flying around the rooms. Funny enjoy the sky, satisfy their curiosity of universe and cultivate unlimited imagination.
+-8 Colors Changing Modes: More colourful color changing with built-in 4 upgraded Led lamp beads and have last long lifetime. 360 degree rotatable, provides a fantastic moving starry sky.
+-Baby Nursery Sleeping Lights: Covered with a dome cover, the starlight projector can be used as a nightlight that emits a soft warm white light and working without noise and glaring. Drive away the darkness of kids' room and coax the baby to fall into a deep sleep quickly.
+-2 Power Ways and Child-safe: The kid night lights can be powered by 4 x AAA battery (Not Included) or USB cable. But the 2 power ways can't use at the same time. Our baby night light is made of non-toxic material, kids can take it anywhere which can provide the warm light for kids to walk through the hallway to bathroom and go back to bedroom.
+-Ideal Gifts for Kids: Great Christmas gifts stocking fillers for boys and girls babies on birthday, Christmas, and Children's Day. The 360-degree rotating star lighting lamp is also an ideal decoration for birthday parties, festival celebrations, and so on, helping to create a warm and romantic atmosphere."
+56,2,4,10,"PG Tips Pyramid Bags, Premium Black Tea, 80 ct",9.99,"-PG tips is England's No. 1 Tea
+-The eighth wonder of the world pyramid bag acts like a mini teapot, giving the tea leaves room to move so you can get even more out of the great PG tips flavor.
+-PG tips Black Tea Pyramid Tea Bags feature a popular British blend of the finest Assam, Ceylon and Kenyan teas which produces a rich and refreshing flavor.
+-PG tips pyramid bags are fully Rainforest Alliance Certified, so when you choose PG Tips, you're helping us help the environment, tea farmers, and their families.
+-How to brew: 1 bag per cup, add freshly boiled water, and brew 1 to 3 minutes to your desired strength."
+57,2,4,10,Lipton Tea Bags For A Naturally Smooth Taste Black Tea Iced or Hot Tea ,12.17,"-Lipton Black Tea Bags can help support a healthy heart.
+-Our Lipton Black Tea pack contains 400 tea bags that come as 2 boxes of 200 tea bags.
+-All our tea leaves are picked at the peak of freshness for a naturally smooth taste.
+-Lipton Black Tea is sustainably sourced, made with only 100% Rainforest Alliance certified tea bags.
+-Get the best from your brew in 2 minutes, adding the tea bag first then water, so the leaves can unleash their flavor. Brew as a hot tea or pour over ice for a refreshing iced tea beverage.
+-With 55 mg per 8-ounce serving, Lipton Black Tea contains 60% less caffeine than coffee."
+58,2,4,10,"Lipton Iced Tea Mix for a delicious refreshment Peach Sweetened with Real Cane Sugar 100% Real Tea Leaves 100% Sustainable Sourced 10 qt, 23.6 Oz(6 Pack)",22.89,"-Made with the sweet flavor of peaches, this tea has the delicious taste of summer in every glass.
+-Pack of six 10-quart cans.
+-100% natural, no added preservatives and colorings.
+-Thirst-quenching and delicious, this iced tea mix is brewed from real tea leaves.
+-Combine iced tea mix as per your taste with 8 fl oz water and get instant refreshment any time."
+59,2,4,10,Tea4U Peach Black Iced Tea Bags - Hot & Cold Brewed,10.75,"ENVIRONMENTALLY CONSCIOUS – Sustainably produced with strict adherence to environmental standards, Tea4U is committed to ensuring that all of the tea we use is sustainably and ethically produced from the best tea-growers in Sri Lanka. Social and environmental wellbeing is crucial to the ethos of the Tea4U brand. Each environmentally conscious, staple-free teabag, individually sealed in an foil envelop to ensure freshness. | 12g x 10 TB = 120g Net| Tea4U
+PERFECT BREW – Tea4U teabags are designed to make brewing the perfect iced tea simple and convenient. The rich flavors readily infuse to create a fragrant and distinctive brew.
+TRUSTED HERITAGE - Produced by Trusted Ceylon Tea Exporters ANVERALLY & SONS. Exporters Since 1892
+ECONOMICAL – Each teabag produces a half-gallon of perfectly brewed iced tea. This means each box of ten ½ oz. tea filter bags yields 5 gallons of brewed iced tea, making this an economical option for iced tea lovers everywhere."
+60,2,4,10,"Pure Leaf, Organic Iced Tea, Sicilian Lemon & Honeysuckle, 14oz Bottles (Pack of 8) (Packaging May Vary)",17.42,"Premium USDA certified organic tea leaves
+Brewed organic black tea, organic cane sugar, citric acid, natural flavor, brewed organic lemon peel
+No artificial sweeteners or added color
+Sicilian Lemon & Honeysuckle flavor; Only 90 calories per bottle
+14 ounce glass bottles, 8 count"
+61,2,4,10,"GENKI FOREST R Tea Peach Oolong Tea, 0 Sugar, Made From Freshly Brewed Tea, Natural Antioxidants, 16.9 fl oz(Pack of 15)",35.98,"-OOLONG TEA BENEFIT: Oolong is a delicate semi-oxidized tea abundant with natural antioxidants, unique from green and black teas. It is considered beneficial for general health and well-being.
+-OUR ARTISAN SPIRIT & CRAFTSMANSHIP: The most peachy flavor in our tea family, this Peach Oolong Tea is brewed with premium Anxi Huangjingui. Enjoy a fruity hint of peach that perfectly complements the tea's mild, smooth, and slightly sweet taste. We only bottle tea from the first brew to retain the highest quality, so that it is as fresh as just brewed when you open it.
+-REFRESHINGLY SWEET & SUGAR-FREE: Energize and hydrate anytime with a more flavorful taste experience than water. Sugar-free, guilt-free, still refreshingly sweet, and smooth.
+-DIETARY FIBER & ANTIOXIDANTS: Each bottle contains up to 200mg of tea polyphenols and 8000mg of dietary fiber, high in Vitamin C.
+-TASTE WANDERLUST: Discover unexpected flavor that shines --a refreshing twist on 4 global-inspired flavors of oolong tea that take you on a journey in taste.
+Includes a pack of 15 bottles of 16.9 oz Peach Oolong tea."
+62,6,1,12,"PatioFestival Patio Dining Set 5 Pieces Outdoor Furniture Sets 50,000 BTU Square Propane Fire Pit Table with Swivel Rocker Dining Chairs(Grey)",1059.6,"360 DEGREE SWIVEL CHAIRS: Swivel function provides extra comfort and relaxation. These patio dining chairs perform a smooth 360-degree spin and slight rocking motion while you enjoy your meal. Set the mood with comfortable and relax seating for your patio. Attached to the swivel seat frame, the chair arms are heat-resistant, wear-resistant, and provide increased rocking comfort when lounging and relaxing. Each chair seat supports up to 300 pounds.
+➤COMFORT TEXTILENE FABRIC: Patio dining chairs with excellent textilene fabric,which is comfortable to sit and fits your body line perfectly.You will like the touch and comfort.Curved arms and well ventilated seat won't make you feel ache or sweat after long-time sitting,suitable for use all over the year. The extra thickened steel frame ensures its durability for years to come. In additional, an extra metal crossbar is added under the chair for a sturdier frame and better weight capacity.
+➤MULTI-FUNCTION FIRE PIT TABLE: 50,000 BTU fire table can keeps you warm without smoke on many wonderful night. The flame level and heat output is adjustable by using the control knob. (Flame height from 1-9"" approximately). There's enough room on the sides for drinks and small plates. Fuel type: 20 lb propane tank.(Not included). Propane is easier to ignite than wood or charcoal. The side door can come off with ease. Included top lid can converts this into a outdoor dining table.
+➤ALL-WEATHER MATERIAL: Patio chairs and table set is crafted with a galvanized steel frame.This weather resistant patio dining set is designed to be rust-resistant and long-lasting. Breathable textilene fabric filled with sponges, padded chairs will bring you ultimate seating comfort. Tabletop uses thermal transfer technology. The wood look of tabletop can last for years which are made of metal material.
+➤SAFE PATIO FURNITURE SET: Whether for enjoying a outdoor bonfire party in patio or sit back and enjoy the dancing flames in poolside,this patio dining set compliments any outdoor space. This all weather table and chairs set includes a 50,000 BTU square fire table and 4 padded outdoor chairs. Cups and other decorations are not included. CSA Certification fire table provides you a safe and green burning,creating a warm and romantic bonfire atmosphere. No smoke when burning. Lava Rocks included."
+63,6,1,12,"Sophia & William Patio Dining Set 7 Pieces Outdoor Metal Furniture Set, 6 x Swivel Dining Chairs with 1 x 6 Person Wood Like Umbrella Table for Outdoor Lawn Garden",1299.99,"-Weather-Resistant: Our metal table and chair furniture set made of sturdy metal steel frame with powder coating, rust resistant, easy to clean, no special care
+-Comfortable Design: Smooth 360 degree swivel chair with high density spun polyester cushion, stylish wood like table design will brings aesthetic feeling to your patio, lawn, garden.
+-Outdoor & Indoor Occasion: Our dining sets is not only suitable for outdoor garden lawn patio pool coffee time but also suitable for indoor kitchen living room dinner time.
+-Dimension: large umbrella table 6 person table L61.42"" x W37.8"" x H28.94"", swivel chair: seat height 15.5"", seat width 20"".
+You may receive 4 packages on different days. Comes with 1 dining table, 6 dining swivel chairs in 3 packages. If you have any problems with your order, please contact us, we'll help you solve it We back our products with a manufacturers warranty against defective workmanship or parts missing."
+64,6,1,12,"Christopher Knight Home 315046 Azalea Outdoor Dining Sets, Black + Teak",777.76,"-TRANSITIONAL: The transitional style of this dining set is sure to give your outdoor space a minimalistic yet classic look that will match seamlessly with any arrangement you currently have. With a simple yet outstanding mix of materials, this set will give your backyard an instant upgrade in style and comfort.
+-ACACIA WOOD TABLETOP: Made with acacia wood that brings a sleek and exotic look to your space, this durable hardwood naturally withstands outdoor elements and will not darken over time. Acacia wood is perfect as a solid, heavy frame that resists wear and tear.
+-SLAT DESIGN: The top of the table features beautiful slat paneling, giving this piece a sophisticated, classic look. This perfectly complements the modern yet traditional look of this set, giving this set a wonderfully cohesive feel to your decor.
+-POLYPROPYLENE RESIN SEATING: Created with high-quality, specially designed polypropylene, our chairs are made to be highly durable and weather-resistant. Each individual component of our polypropylene blend is specifically chosen to create a unique mixture that ensures that your product is of the best quality.
+-DIMENSIONS: Choose an accessory that is the perfect size for you and your furniture. Each chair is 23.00” W x 21.50” D x 33.00” H and the table is 59.25” W x 35.50” D x 30.00” H. You will love how much your space can transform with the simple addition of this charming dining set. This set includes six chairs and one dining table.
+Ships in several boxes, may ship separately
+"
+65,6,1,12,Flash Furniture 28'' Square Glass Metal Table with Dark Brown Rattan Edging and 2 Dark Brown Rattan Stack Chairs,174.47,"-Make the most of bright sunny days and laid back sultry evenings when you have this comfortable table and chair set. Perfect for a home patio, poolside or the courtyard at your restaurant or cafe, this is a definite outdoor upgrade
+-Square table with 5mm thick glass, clear tempered glass surface, 1.375"" edge top with decorative rattan edge band
+-Lightweight design café chair, curved rattan seat and back, stacks 23 high, holds up to 352 lb. weight capacity
+-Contemporary glass and metal table and chair set for commercial and residential use
+PRODUCT MEASUREMENTS >>> Table Size: 28""W x 28""D x 28""H | Base Size: 25.5""W | Chair Size: 21.75""W x 23.5""D x 28.5""H | Back Size: 11.5""W x 13.5""H | Seat Size: 16.5""W x 15""D x 17""H
+-Ships in several boxes, may ship separately.
+"
+66,6,1,12,"Incbruce 7Pcs Outdoor Patio Furniture Conversation Sets (Loveseat, Coffee Table and Bistro Table, 2 Spring Chair, 2 Lounge Chairs) - Steel Frame Cafe Furniture Sets with Cushions (Peacock Blue)",599.99,"MATERIAL: Powder coated stable steel frame, rust and weather resistant. Extra-padded cushions for superior comfort when sitting. Solid and stable metal table with beauty honey comb top.
+FUNCTION: This conversation set is stylish and perfect for any outdoor space including yards, patios, gardens, porches or indoors if you want. You can eat, play games or bask in the sun with your friends.
+FEATURES: Curved arms and an extra wide seat with padded cushion provide a high quality user experience. The unique back design not only makes the seating sturdier. The padded cushions are well-made. Padded cushions with removable covers allow for easy cleaning and maintenance
+Product Dimension: Loveseat 47.24” (L)x 29.53” (w) x 33.85” (H); Coffee Table 35.8” (L)x19.68” (w) x 18.5” (H); Bistro Table: 20""(D) x 17.7""(H); Spring Chairs: 29"" (L) x 25.2"" (w) x 34.24""(H); Lounge Chair 29.53” (L)x 25.11” (w) x 33.86” (H); Cushion:3.9” thick.
+Easy to Assemble: Follow the instruction, easy and quick assembly. Includes all hardware & necessary tools. If you have any questions, please feel free to contact us and our customer service team will respond within 24 hours to assist you."
+67,3,1,3,"Googipet 10 in 1 Dog Multivitamin with Glucosamine & PurforMSM for dog hip and joint support - Essential Dog Vitamins w/ Chondroitin, Probiotics & Omega Fish Oil -One dog supplement for overall health",24.99,"10 Benefits In 1 Daily Treat – Googipet’S 10-In-1 Multivitamin Treats Combine The Most Essential Vitamins And Supplements Including Glucosamine, Probiotics, Vitamins And Omegas, For Dogs’ Overall Daily Health. More Energy And Less Health Problems! For Big Dogs, Medium Sized Dogs, And Small Dogs!
+Joint Health With Glucosamine - Our All-Natural Soft Chew Supplement Treats Have High Amounts Of Glucosamine, Purformsm And Other Proven Joint Support Ingredients That Reduce Joint Inflammation And Increase Mobility And Flexibility.
+Improve Digestion With 1 Billion Cfu Probiotics - These One A Day Dog Vitamins Contain Probiotics, Pumpkin And Vitamins That Help Keep Your Dog’S Digestive System Running Smoothly And Decrease Diarrhea, Vomiting And Stomach Issues.
+Healthy Skin + Coat With Omegas - Egg Shell Meal And Omegas From Krill Oil And Flaxseed Heal Dry, Itchy And Flaky Skin And Increase Coat Strength, Shine And Overall Health.
+Immune System + Heart Health With Vitamins A, C And D3 - A Blend Of Vitamins With Anti-Inflammatory And Antioxidant Properties Improves Immune System And Keeps Heart Strong And Healthy. Your Dog Will Love Our Chew Taste, Making It Easy For You To Improve Your Dog’s Overall Health."
+68,3,1,3,"VetPro Dog Vitamins and Supplements - Pet Multivitamins with Probiotics, Glucosamine for Hip and Joint Health, Immune System Support, Allergy Meds - 5 in 1 Chewable Multivitamin for Puppy to Senior",29.95,"VETERINARIAN FORMULATED - Our dog vitamins and supplements focus on five key areas. Dog probiotics for digestive function, dog skin and coat supplement, joint mobility, heart health and enhanced immunity. Formulated by a vet with over 30 years of experience, our multivitamins for dogs are a nutritional dog supplement to promote ideal functioning and longevity. VetPro's essential dog health supplies improve your pet's overall health and well-being. Ideal puppy vitamins and senior dog vitamins.
+PROMOTES OPTIMAL DIGESTIVE FUNCTIONING - Our dog probiotic supplement is specially formulated to prevent diarrhea, loss of appetite, constipation, gas, and bloating. Superior digestive health begins with the optimal blend of ingredients in our dog supplements with 500 million CFU per chew.
+KEEP YOUR DOG ACTIVE - Our proprietary vitamins for dogs are not high calorie dog supplements. They are supplements with active ingredients that every pet needs for hip and joint health. With powerful ingredients like Glucosamin HCL, Chondroitin, MSM, and Turmeric, our multivitamin targets inflammation which can cause pain and interfere with an active lifestyle.
+A BEAUTIFUL COAT IS A HEALTHY COAT - Each tasty chew includes fish oil and Vitamin E to help reduce itching, allergies, and dry skin. Promote a silky, smooth coat and reduce skin irritation with our enriched formula designed to help your best friend look and feel great.
+SUPERIOR INGREDIENTS FOR LONGEVITY - Our multivitamin chews include powerful Omega-3, natural antioxidants, and key vitamins to help promote a strong healthy heart and cardiovascular system. Vitamins A, B, C, and E will boost your pup's immune system. Your pet's health is your responsibility, so provide them with only the best."
+69,3,1,3,"PetHonesty 100% Natural Omega-3 Fish Oil for Dogs from Iceland - Omega-3 for Dogs - Pet Liquid Food Supplement- EPA + DHA Fatty Acids Reduce Shedding & Itching- Supports Joints, Brain & Heart Health",25.99,"Made With Wild-Caught Fish From Iceland - PetHonesty's Omega-3 Fish Oil is made with sardines, mackerel, anchovies and herrings, caught in the pure and clean waters off the coast of Iceland. These fish are high in Omega-3s but low in mercury and toxins and will help support your dog's joint, heart, immune system, skin, coat and overall health.
+Naturally Purified To Remove 99.9% Of Fishy Taste + Smell - Your dogs will love the taste of our 100% natural Omega-3 Fish Oil mixed right into their food. And you'll love that it has hardly any fishy smell! Our Omega-3 Fish Oil is naturally purified to remove the fishy odor and taste found in most fish and salmon oils for dogs. We use a 3rd Party tester to ensure potency and purity of our product and bottle our oils in a GMP certified facility in the U.S.A.
+Maintain A Healthy + Glossy Coat: The high amounts of DHA, EPA and other Omega-3 fatty acids found in this 100% Natural Fish Oil for dogs will promote healthy skin and a glossy coat in your dog. One serving of our Omega-3 oil contains 800mg of EPA and 525mg of DHA that also supports the immune system
+Support Immune System + Proper Joint Nutrition: The Omega-3's supplied by PetHonesty's Omega-3 Fish Oil will not only promote healthy skin and coat but also help support a healthy immune response and normal inflammatory response in your dog's body. This supports overall health and wellbeing for your dog.
+Vet-recommended As A Healthy Source Of Omegas: PetHonesty's Omega-3 Fish Oil has been reviewed and recommended by veterinarians as a healthy source of omegas to help support healthy joints, cardiovascluar health, immune system and skin/coat."
+70,3,1,3,Christmas Dog Bandanas Triangle Dog Scarf Adjustable Washable for Christmas Pet Costume Supply,8.99,"Fit to most pets: The pet's bandana is triangular, size is 27.6""*18.9""*18.9"", perfect for small to large dogs, such as Labrador, Boxer, Doberman, German Shepard, etc. animals like dog, cat, rabbit, alpaca are suitable for this bib.
+The bandanas have cute print, you can found Christmas elements, such as santa claus,snowman etc, it’s can be a very cute gifts for dog in Christmas.
+High quality fabric: made of carefully selected polyester fabric with bright color and soft touch, it will gently care for your dog's skin and hair. Ventilation and comfort, will not let the dog feel uncomfortable, and solve the dog's saliva problem.
+Wide scope of application: washable cat scarf with beautiful design is applicable in occasions like , birthday party and Christmas; Apart from being ornament to decorate your pets, what the scarf performs better is to collect the saliva made by pets, helping to clean their mouth.
+Best gift: surprise your pet before Christmas. When you take your dog out to buy some candy, everyone will pay attention to your charming baby dog."
+71,3,1,3,K9 Sport Sack Knavigate | Dog Carrier Dog Backpack for Most Dog Sizes | Front Facing Adjustable Dog Backpack Carrier | Veterinarian Approved,174.95,"THE MEDIUM K9 SPORT SACK KNAVIGATE will fit dogs with the length of 17-20 inches and have a girth up to 28 inches. Typical dog breeds that will fit this size backpack include Jack Russel Terrier, Lhasa Apso, Pug, Havanese and Schipperke. Use it as a dog travel bag for hiking, bikes, subways, shopping, motorcycles, skiing, dancing..heck the possibilities are endless!
+KNAVIGATE BACKPACK: Do you hate seeing big, sad puppy dogs eyes as you walk out the door for an adventure, leaving your best friend behind? Our trainer dog sports backpack are ideal for owners who want to take their pups with them, but are looking for an economical solution. Our backpack carrier are great for dogs who suffer from anxiety, depression, or have a physical disability. Our pet backpack are also great for older dogs or puppys that may not have the stamina for your next big adventure.
+ROUND TALL FAT SMALL: We get it! Dogs come in all shapes and sizes, and not every pet travel bag fits the same. We have your dog covered! Our dog travel carrier is available in multiple sizes from X-Small to X-Large. We have a dog carrier bag that will fit almost any dog breed. View the product images to the left to find the right size for your dog! Please contact us and visit our website for more accurate sizing recommendations.
+SPORT SACK IS THE NEW BLACK: (Tip) For all the chubby dogs out there with a few fat rolls over the collar, our Midnight Black dog hiking backpack is very slimming! Jokes aside, Midnight Black is 1 of the 2 stylish colors we offer in the Sport Sack KNAVIGATE, and don’t worry all the colors have a slimming effect! Our dog carrying backpack is designed to keep your dog safe and secure. Its the ultimate dog backpack for hiking!
+USA-BASED COMPANY, PERFORMANCE GUARANTEED: Wrong size? No problem. Any issues? We’re here for you. Whatever the problem may be don’t worry we’ll cover it, but we’re happy to hear any good stories and see your adventures with your dog. This puppy backpack is backed by a 60-Day Quality Guarantee. Must be sold by seller ""K9 Sport Sack"" or warranty is voided."
+72,6,1,12,"Thirstystone Brand - Desert Sand Coaster, Multicolor All Natural Sandstone - Durable Stone with Varying Patterns, Every Coaster Is An Original 4 inch round",14.21,"All natural sandstone - these Thirstystone coasters are made from natural sandstone, with an organic design derived from natural stone formations. Every coaster has a varying pattern and adds a stunning piece of decor to any room.
+4"" Round - these natural stone coasters are four inches in diameter and one half inch thick. Fit perfectly in a Thirsty stone pedestal coaster holder.
+Protective - tired of drips on your kitchen counter or water rings on your coffee table? Use these Thirsty stone coasters to protect in every room of the house. Dining Table, kitchen, bedroom night stands, Coffee table or living room end tables, These coasters are great for anywhere!
+No scratch - our Thirstystone all Natural sandstone coasters have a natural cork backing to protect any surface from scratches or scuffs and keep the coaster from sliding.
+Care - Since these coasters are made from true stone, please gently hand wash with soap and water, then let completely dry. Please let coaster Dry between uses.
+Genuine Thirsty stone - Don't be fooled by other coasters that try to imitate Thirsty stone's quality and look, make sure you get real Thirsty stone branded sandstone coasters!"
+73,7,4,13,"Pantene Sulfate Free Shampoo and Conditioner plus Hair Mask Shot Treatment with Rose Water, Nutrient Blends Miracle Moisture Boost",12.55,"-Rose water shampoo that gives soothing hydration for thirsty hair. You will receive 1 9.6 oz bottle of shampoo, 1 8 oz bottle of conditioner and 1 0.5 oz Hair Mask shot.
+-Nourishing conditioner helps seal in moisture for silky softness.
+-Hair Mask shot: dry hair moisturizing treatment noticeably repairs extreme damage in 1 use.
+-Color-safe formula that’s safe for chemically treated hair."
+74,6,3,12,"Tertill Garden Weeding Robot - Prevents Weeds in Vegetable Gardens, Solar-Powered, Makes a Great Gift",296.95,"EASY TO USE – Place Tertill in any garden that meets the requirements, press the button once to wake it up, and again to make it go. From the inventor of Roomba.
+GARDEN REQUIREMENTS – 4-inch (or higher) border, a foot between plants or rows, a relatively flat (slope of less than 7 degrees), and relatively smooth surface. Place Tertill in a weed-free garden to start. Each robot can maintain up to 200 sq. ft.
+PLANTS vs WEEDS – Tertill uses height to identify plants from weeds. Anything tall enough to touch its front sensors is considered a plant and Tertill will turn away. If it passes under the robot, Tertill cuts it. Included plant guards protect desired seedlings not tall enough to be detected by the robot.
+STAYS in the GARDEN– Tertill never goes on vacation or has something better to do. It is weatherproof and can stay in the garden from Spring through Fall. Solar-powered, it never needs to be charged!
+GREAT GIFT – Perfect for busy moms, dads, grandparents or anyone who doesn't have the time, ability or desire to weed the garden, but still wants to grow fresh healthy vegetables for their family.
+FREE APP & SUPPORT – Free smartphone app lets you monitor your robot and upgrade software. Free customer service at Support@Tertill.com. 1-Year Warranty.
+NOT FOR LAWNS or SLOPED AREAS"
+75,6,3,12,"Expandable Garden Hose, Lightweight Retractable Water Hose, With 10 Functions Nozzle, With Soap Bottle, 3 Times Expanding, Kink Free, With 3/4 Inch Solid Brass Fittings And Double Latex Core",45.99,"1. 【Lightweight and Portable】: The flexible hose are light in weight, and the quality is also very good, which feels very handy to use. Equipped with storage bags and hooks, which is convenient to store and does not take up too much space. When water is turned on, the expanding water hose can be extended to three times its original length, enough to extend to any place in the yard, and it is not easy to kink.
+2. 【Nozzles with 10 Functions】: Rotate the baffle to choose the nozzle type you need: Full, Flat, Shower, Cone, Jet, Soaker, Angle, Mist, One Half Vertical and Center. The nozzle is easy to hold, ergonomically adequate, The squeeze handle design is much better than the thumb adjustment design, it also has a Hold switch mechanism, so you don’t need to keep it hard.
+3. 【Equipped with a Soap Bottle】: Compared with other garden hoses on the market, we also have a bottle for detergent. Introduce detergent into it, then use it with the spray gun, which can produce rich foam, you don't need to have a separate bucket of soapy water anymore. Adjust the amount of foam with the rotary switch, makes it easy for you to clean your car and bathe your pet.
+4. 【High-quality Parts】: The material of the joint is solid brass. The heavy duty hose uses a double latex core and 3750D polyester fabric cover to prevent breakage and leakage. It can withstand water pressures of 4 to 8 Bar, and withstand temperatures between 14 degrees Fahrenheit and 176 degrees Fahrenheit. Even in winter, there is no need to worry about leaks, tears or breaks in water pipes.
+5. 【Wide Range of Uses】: This garden hose is suitable for all your outdoor watering needs, including car, house, floor, yard washing, garden watering, and even pet cleaning."
+76,7,3,9,"Juicy Couture Viva La Juicy Noir Eau de Parfum Spray, Perfume for Women, 3.4 oz",72,The daring aura of noir will lure you in with adventurous fruit flavors and sultry sandalwood.
+77,7,3,9,"Tom Ford 'Oud Wood' Eau de Parfum 3.4,Black",332.01,"Tom Ford Private Blend Oud Wood Eau De Parfum Spray - 100ml/3.4oz
+An oriental woody fragrance for men & women War
+Tom Ford"
+78,4,3,4,"Paperage 3 Pack Lined Journal Notebook, Bulk Classic Hardcover, 5.7 x 8 inches, 100 gsm Thick Paper for Office Home School Business Note Pads(Black, Ruled)",19.95,"HARDCOVER JOURNAL: 3 notebooks sized medium 5.7 X 8 inches. These are a best seller with a simple design and timeless style. They features a durable and water-resistant vegan leather cover, inner expandable pocket, rounded corners, 160 pages, ribbon bookmark, and an elastic closure band. The medium size makes it the perfect choice for all your journaling or note taking needs.
+GREAT VALUE WITH A MULTI-PACK: Our value packs of 3 notebooks are a great way to stock up for all your journaling and note taking needs. With a multi-pack you'll never run out and always have an extra on hand for the home, at the office, and for school - a convenient option for on-the-go students or busy professionals!
+PREMIUM PAPER: Our journal paper is made with quality, 100 gsm, acid-free paper so you never have to fear your favorite pen, marker, or pencil will bleed ink or disappear. Your journaling and notes will stay neat and legible to let your big ideas shine bright!
+LAYFLAT DESIGN FOR WRITING EASE: Our thread-bound notebooks are designed to lay flat on a variety of surfaces making it easier to write for right and left handed users. Journaling, note taking, and bullet journal style set ups have never been more fun with a Paperage journal.
+SO MANY COLORS : We have a wide variety colors to suit every mood! Not only can you get three journals in the same color, we also offer a variety pack of three different journal colors."
+79,4,3,11,"TAKA PRYOR Lined Journal Notebook,Journals with Magnetic Closure,Personal Professional Notebooks,with Pen Holder，Medium 5.7 x 8.3 inches, 120 GSM Thick Paper(Blue Ruled)",12.99,"Hard Cover Journal: – 200 Pages (100 Sheets) premium lined paper, which is thick and cut evenly, resisting ghosting and ink bleeding.We use 120 gsm acid-free paper in a light ivory color, Lines width 9mm.
+STYLISH AND PROFESSIONAL MAGNETIC CLASP NOTEBOOK: Perfect notebook journal for work, taka pryor office, business, meeting notes, journal writing. Great professional notebooks and journals for writing. Men's and women's.
+The Perfect Gift - This notebook/journal is perfect as travel notebook, business notebook and also excellent gift for Birthday, Halloween, Christmas, or back to college choice for yourself, family and friends.
+ABOUT Paper: We are committed to bringing our customers premium paper products using high quality components, taka pryor top notch construction and innovative design. Our Paper pledge is to provide awesome products at an affordable price without sacrificing.
+Quality.Multi- purpose notebook: standard size, easy to carry, meets the need of writing, suitable for study, journal, work and travel."
+80,5,1,5,"Donerton Wireless Earbuds, Bluetooth 5.1 Sport Headphones with Charging Case, 10Hours Single Playtime Earhooks Headset",32.99,"bluetooth 5.1 and stereo sound quality: Donerton bluetooth headset bring you for a better music experience. compared to bluetooth 5.0, the 5.1 version features fast and stable signal transmission, clear sound quality without skips and distortion and low power consumption. at the same time, stereo headphones provides sound quality, the sound of immersive music scene surround sound, let you feel more realistic music!
+ip7 waterproof: sports earbuds design, internal nano coating protects the headphones from heavy rains or sweat throughout intense exercises; just enjoy your time when running, jogging, riding, hiking, fitness, or in the gym. keep your headphones in good working order, even if you are drenched sweats after a grueling workout.
+ergonomic earhook design: with lightweight and ergonomic design, Donerton earhooks headset is a great combination of comfort and stability with ear hook and in ear fitting designed for strenuous workouts. lightweight and ergonomic design, customizable accessories with large, medium, and small size of gel eartips; soft silicon earhooks ensure comfortable and secure wear in even intense workout.
+950mah charging case and led display: the charging box with built in 950mah battery can provide up to 40 hours of continuous music time. put the earbuds into the charging box and will charge automatically. the charging box has an led display that lets you know when it is the best charging time, Donerton bluetooth earbuds are your great companion for sports and travel!
+easy to use: control buttons on the headphones so that you can play and pause music, adjust the volume, skip tracks, answer and end calls, and activate the voice control of your phone with one simple operation on the headphones. these headphones are compatible with most ios and android smartphones."
+81,5,2,5,Bose Headphones,249.99,N/A
+82,4,2,4,Heavy duty binder Folder,6.99,Binder Folder to organize your files
+83,4,4,11,Pens - 20pc,4.99,Pack of 20 blue pens
+84,4,4,11,Pencils - 20pc,3.99,Pack of 20 skectching pencils
+85,4,1,11,HP Ink Cartridge,7.99,N/A
+86,7,2,9,Lakme Make up kit,29.99,Lakme premium make up kit
+87,7,1,13,Mens hair styling gel,12,Mens hair styling gel
+88,6,2,6,Floral Twin XL Bedsheet,19.99,Pure cotton twin xl bed sheet
+89,6,2,6,Scented Soaps - 6 pack,29.99,Scented Soap 6 different fragrances
+90,6,4,6,RBG Led decorative Light strips,15,2 meter of led light strip can be used indoors and outdoors

@@ -1,0 +1,4 @@
+user_id,user_type,login_username,login_password
+1,1,admin,admin
+2,2,che.ing,pass123
+3,2,vis.nag,pass123
